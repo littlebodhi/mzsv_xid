@@ -1,0 +1,19 @@
+{
+  "name": "mzsv_xid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/littlebodhi/mzsv_xid"
+  },
+  "keywords": [],
+  "author": "littlebodhi",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
